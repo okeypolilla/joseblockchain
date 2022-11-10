@@ -1,2 +1,0 @@
-# joseblockchain
-js
